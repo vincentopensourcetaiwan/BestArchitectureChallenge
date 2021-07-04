@@ -1,3 +1,7 @@
+### 此為參加 Flutter Best Architecture Challenge 活動的專案
+#### 聯絡方式:
+##### FB: https://www.facebook.com/vincent.lin.taiwan
+
 # 📢📢📢 Flutter Best Architecture Challenge 📢📢📢
 嗨！Flutter Taipei 的大家還好嗎？  
 由於疫情嚴峻，Flutter Taipei 已經有一陣子沒有辦活動了🥲  
